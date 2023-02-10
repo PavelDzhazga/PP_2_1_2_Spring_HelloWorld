@@ -1,4 +1,4 @@
-public class POJOCat {
+public class Cat {
 
     private String name;
 
